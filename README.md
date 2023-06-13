@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://media.istockphoto.com/id/1026126552/vector/cute-cartoon-black-cat.jpg?s=612x612&w=0&k=20&c=07EN4ZpdYKdz-C99QjUYvpZ_xk974o4eLnV7cyCO7dg=" width="120" height="120">
+  
+# Random Cat Picture Generator
+  
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+  <p align="center">   
+  </p>
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Deployed Link](#deployed-link) |
+[Preview of App](#preview-of-app) |
+[Technologies](#technologies) |
+[Contributors](#contributors) |
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="center">
+  
+## Deployed Link:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Visit the Deployed Site Here!](https://method-tech-challenge.vercel.app/)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Preview of App:
+[//]: <> (add gifs)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="542" alt="Screen Shot 2023-06-12 at 9 45 00 PM" src="https://github.com/Tristinsorrells1/method-tech-challenge/assets/109977562/77a139fa-5018-4867-923d-7d0fb326dffc">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Technologies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div>
+  <img src="https://img.shields.io/badge/-react-333333?logo=react&style=for-the-badge" width="100" height="30"/>  
+  <img src="https://img.shields.io/badge/-CSS-315780?logo=css3&style=for-the-badge" width="100" height="30"/> 
+  <img src="https://img.shields.io/badge/-HTML-c12127?logo=npm&logoColor=white&style=for-the-badge" width="80"  height="30"/>
+</div>
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contributors:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[//]: <> (Who worked on this application? Link to their GitHubs.)
 
-### Making a Progressive Web App
+<div>
+  <img src="https://img.shields.io/badge/-Tristin%20Sorrells-c4a4a3" height="30" width="100">
+  <p><strong>Connect with:</strong></p>
+  <a href="https://www.linkedin.com/in/tristinsorrells/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Tristinsorrells1">
+    <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="mailto: tristinsorrells1@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</div>
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+--- 
