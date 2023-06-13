@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <section className="landing-page">
-      <img src="https://cataas.com/cat" alt="Randomly generated cat picture"></img>
+      <h2>Random Cat Picture Generator</h2>
+      <button class="refresh-page-button" onClick={(() => window.location.reload())}>Show Me a New Cat!</button>
+      <img className="cat-image" src="https://cataas.com/cat" alt="Randomly generated cat picture"></img>
     </section>
   );
 }
