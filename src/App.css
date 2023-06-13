@@ -5,8 +5,10 @@ html {
 }
 
 h2 {
-  color: white;
   text-align: center;
+  margin: 0;
+  font-size: 5vh;
+  color: pink;
 }
 
 .landing-page {
@@ -16,7 +18,7 @@ h2 {
 
 .cat-image {
   height: 80vh;
-  width: auto;
+  width: 70vw;
   display: block;
   margin: 0 auto 0 auto;
   border: 2px solid pink;
@@ -28,4 +30,14 @@ h2 {
   width: 25vw;
   height: 5vh;
   background-color: pink;
+  border-radius: 20px;
+  color: rgb(55, 44, 44);
+}
+
+.tagline {
+  text-align: center;
+  font-style: italic;
+  margin-top: 1vh;
+  font-size: 3vh;
+  color: white;
 }
