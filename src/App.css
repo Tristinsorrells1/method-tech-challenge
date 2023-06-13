@@ -17,8 +17,8 @@ h2 {
 }
 
 .cat-image {
-  height: 80vh;
-  width: 70vw;
+  height: 50vh;
+  width: auto;
   display: block;
   margin: 0 auto 0 auto;
   border: 2px solid pink;
